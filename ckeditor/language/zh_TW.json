@@ -1,0 +1,21 @@
+{
+	"plugin-data":
+	{
+		"name": "Ckeditor + KCFinder",
+		"description": "為Bludit新增Ckeditor 4.5.1 + KCFinder 3.12",
+		"author": "Fred",
+		"email": "",
+		"website": "",
+		"version":"1.0.5",
+		"releaseDate": "2015-08-08"
+	},
+
+    "activate-markdown-plugin": "啟用Markdown模組",
+    "activate-toolbar-plugin": "啟用工具列模組",
+    "select-toolbar": "選擇工具列",
+    "basic": "基本",
+    "standard": "標準",
+    "advanced": "進階",
+    "advanced-is-the-full-package-of-ckeditor": "« 進階 » 是全功能的Ckeditor",
+    "select-skin": "選擇佈景"
+}
